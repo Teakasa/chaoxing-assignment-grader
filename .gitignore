@@ -1,0 +1,11 @@
+*.doc
+*.docx
+*.pdf
+*.zip
+*.7z
+*.rar
+preview-cache/
+ocr-cache/
+grades.json
+__pycache__/
+*.pyc
