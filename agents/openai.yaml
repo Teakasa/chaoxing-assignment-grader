@@ -1,0 +1,6 @@
+interface:
+  display_name: "Chaoxing Assignment Grader"
+  short_description: "Grade Chaoxing lab reports safely in-browser"
+  default_prompt: "Use $chaoxing-assignment-grader to review pending Chaoxing lab reports and prepare rubric-based grades."
+policy:
+  allow_implicit_invocation: true
